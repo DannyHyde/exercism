@@ -9,7 +9,7 @@
 
 Here are my files for completing the `bash-language` track.
 
-| Title | Description | Code |
-|:-----:|:-----------:|:----:|
-|Hello World| The standard starting point | [helloworld](hello-world/hello_world.sh) |
-
+|   Title   |   Description |   Code    |
+|:----------|:-------------:|----------:|
+|   Hello World |   The standard starting point |   [helloworld](hello-world/hello_world.sh)    |
+|   Two-fer |   Print a statement depending on parameter given  |   [two-fer](two-fer.two_fer.sh)   |
